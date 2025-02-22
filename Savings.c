@@ -4,7 +4,9 @@
  * Description: This is a program that computes the interest on an initial
  * amount of money invested in a saving account. The user calls this program
  * with four required commands line arguments: account name, initial amount,
- * annual percentage interest rate, and an integer number of months
+ * annual percentage interest rate, and an integer number of months.
+ * 
+ * I am adding to this file to update the commit log of this github repo
  */
 
 #include <stdio.h>
